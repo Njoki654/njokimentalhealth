@@ -88,7 +88,7 @@ li{
     margin-bottom: 3rem;
 }
 .pics{
-    background-image: url(./IMAGES/image3.jpg);
+    background-image: url(IMAGES/image3.jpg);
     background-size: cover;
     background-position: center;
     width: 50%;
@@ -106,7 +106,7 @@ li{
 
 }
 .mmm .img2{
-    background-image: url(./IMAGES/img1.jpg);
+    background-image: url(IMAGES/img1.jpg);
     background-size: cover;
     background-position: center; 
     width: 30%;
@@ -120,7 +120,7 @@ li{
 
 }
 .mmm .fhoto{
-    background-image: url(./IMAGES/img2.jpg);
+    background-image: url(IMAGES/img2.jpg);
     background-size: cover;
     background-position: center;
     width: 30%;
@@ -134,7 +134,7 @@ li{
     margin-left: 4%;
 }
 .mmm .boto{
-    background-image: url(./IMAGES/img5.jpg);
+    background-image: url(IMAGES/img5.jpg);
     background-size: cover;
     background-position: center;
     width: 30%;
