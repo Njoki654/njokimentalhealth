@@ -72,7 +72,7 @@ li{
 }
 
 .pic{
-    background-image: url(./IMAGES/img3.jpg);
+    background-image: url(IMAGES/img3.jpg);
     background-size: cover;
     background-position: center;
     background-color: rgb(97, 97, 245);
